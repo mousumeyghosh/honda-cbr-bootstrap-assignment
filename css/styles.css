@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* featured section */
+
+#bike-1,
+#bike-3 {
+    filter: grayscale(1);
+}
+
+.bg-custom {
+    background-color: #264653;
+}
+
+.btn.btn-honda {
+    color: white;
+    background-color: #E76F51;
+    border-radius: 5px;
+}
+
+.text-custom {
+    color: #E76F51;
+}
